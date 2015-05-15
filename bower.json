@@ -1,0 +1,13 @@
+{
+  "name": "jQuery scoped polyfill",
+  "version": "1.0.0",
+  "main": "jquery.scoped.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
